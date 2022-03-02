@@ -20,7 +20,9 @@
 
 
 -[X] Write Read me repo
+
 -[] Update Repository 
+
 -[] Fix bug
 
 That is funny! :joy:
